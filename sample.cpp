@@ -6,7 +6,10 @@ int main()
 int i=0;
 for(i=o;i<4;i++)
 {
-cout<<"*";
+  for(int j=0;j<=i;j++)
+  {
+cout<<"*"<<endl;
+}
 }
 }
 
