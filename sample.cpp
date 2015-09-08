@@ -10,6 +10,7 @@ for(i=o;i<4;i++)
   {
 cout<<"*"<<endl;
 cout<<"\n";
+cout<<"hellooo";
 
 }
 }
